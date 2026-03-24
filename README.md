@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy José Miguel 👋</h1>
 <h3 align="center">Interesado en programación y desarrollo de aplicaciones en la nube. Me gusta aprender y explorar diversas formas de programar.</h3>
 
-- 🌱 Recientemente estoy aprendiendo sobre **pseudocódigo, la nube, algoritmos**
+- 🌱 Me encanta **programar y desarrollar lineas de códigos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
